@@ -1,7 +1,7 @@
 # Work Day Scheduler
 
 ## Description 
-A simple calendar application that allows users to manage their daily schedule by adding events to each hour of the day. The application color-codes the time blocks to indicate whether they are in the past, present, or future. Users can save their events to local storage so that they persist even after refreshing the page.
+A simple calendar application that allows user to manage their daily schedule by adding events to each hour of the day. The application color-codes the time blocks to indicate whether that hour is in the past, present, or future. User can save their events to local storage so that they persist even after refreshing the page.
 
 ## Features
 - Color-coded time blocks to indicate past, present, and future.
@@ -16,7 +16,7 @@ A simple calendar application that allows users to manage their daily schedule b
 - CSS
 - JavaScript
 - jQuery
-- Moment.js
+- Day.js
 
 ## Solution
 This JavaScript schedule app addresses the need for a convenient and organized tool for scheduling daily activities. It provides a simple interface that allows users to visualize their schedule, add events, and manage their time effectively.
@@ -34,7 +34,7 @@ Event Input and Editing: Users can click on time blocks to enter or modify event
 Save Button Functionality: Saved events are stored in local storage using the event's time block ID as the key, ensuring data persistence.
 
 ## Credits
-This project was completed as part of the Penn LPS Full Stack Flex Coding Boot Camp, and tutoring was provided by Dru Sanchez.
+This project was completed as part of the Penn LPS Full Stack Flex Coding Boot Camp, and personal tutoring was provided by Dru Sanchez.
 
 ## Deployed Site
 
