@@ -38,5 +38,8 @@ This project was completed as part of the Penn LPS Full Stack Flex Coding Boot C
 
 ## Deployed Site
 
-## Screenshots
 
+
+## Screenshot
+
+<img width="1432" alt="Screenshot 2023-12-04 at 10 09 24 PM" src="https://github.com/p-iacone88/Workday-Scheduler/assets/50248763/860b02cd-26bc-465b-9e6b-3bef74494745">
