@@ -42,4 +42,5 @@ This project was completed as part of the Penn LPS Full Stack Flex Coding Boot C
 
 ## Screenshot
 
-<img width="1432" alt="Screenshot 2023-12-04 at 10 09 24 PM" src="https://github.com/p-iacone88/Workday-Scheduler/assets/50248763/860b02cd-26bc-465b-9e6b-3bef74494745">
+<img width="1435" alt="Screenshot 2023-12-04 at 10 13 23 PM" src="https://github.com/p-iacone88/Workday-Scheduler/assets/50248763/52ff6161-9409-442e-b2d8-80cbcc026917">
+
