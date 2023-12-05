@@ -17,6 +17,7 @@ A simple calendar application that allows user to manage their daily schedule by
 - JavaScript
 - jQuery
 - Day.js
+- Moment.js
 
 ## Solution
 This JavaScript schedule app addresses the need for a convenient and organized tool for scheduling daily activities. It provides a simple interface that allows users to visualize their schedule, add events, and manage their time effectively.
